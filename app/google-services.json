@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "712374985130",
+    "firebase_url": "https://parkyerim-4c2d3.firebaseio.com",
+    "project_id": "parkyerim-4c2d3",
+    "storage_bucket": "parkyerim-4c2d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712374985130:android:29189a174ca400f2db4bd3",
+        "android_client_info": {
+          "package_name": "com.example.parkyerim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712374985130-u3nfmdae6f1tn4kegmh4sa82magd5p6e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.parkyerim",
+            "certificate_hash": "7b69270f35904b98e19ce61881e65972e05e6834"
+          }
+        },
+        {
+          "client_id": "712374985130-p61qti0o3501c473sh01qdjo6mv3vobm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5K1bbiU330dH-TBnfLueNImyb_M-vUyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712374985130-p61qti0o3501c473sh01qdjo6mv3vobm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
